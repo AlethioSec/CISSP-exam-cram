@@ -28,4 +28,4 @@ Candidates will be presented with a minimum of 100 items on all examinations. Th
 | --------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Subreddit CISSP | Great collection of exam paths, failures and success. Great read for different resources. | [CISSP - Certified Information System Security Professional](https://www.reddit.com/r/cissp/) |
 
-1. [Computerized Adaptive Testing](https://www.isc2.org/certifications/computerized-adaptive-testing)
+[^1]: [Computerized Adaptive Testing](https://www.isc2.org/certifications/computerized-adaptive-testing)
